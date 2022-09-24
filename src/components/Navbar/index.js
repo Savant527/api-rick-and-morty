@@ -15,6 +15,7 @@ function NavbarApp() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Link className="nav-link m-2" to="/"><strong>Characters</strong></Link>
+            <Link className="nav-link m-2" to="/episodes"><strong>Episodes</strong></Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

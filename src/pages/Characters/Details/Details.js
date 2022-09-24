@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { useCharacters } from "../../hooks/useCharacters";
+import { useCharacters } from "../../../hooks/useCharacters";
 import { Button, Container } from "react-bootstrap";
 import { useParams } from "react-router-dom";
 
